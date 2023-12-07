@@ -1,1 +1,12 @@
+apache-airflow-providers-cncf-kubernetes
 apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-mongo
+apache-airflow-providers-amazon
+apache-airflow-providers-smtp
+apache-airflow-providers-microsoft-azure
+apache-airflow-providers-common-sql
+apache-airflow-providers-sqlite
+apache-airflow-providers-ssh
+apache-airflow-providers-sftp
+apache-airflow-providers-postgres
+apache-airflow-providers-samba
